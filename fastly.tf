@@ -1,5 +1,5 @@
 provider "fastly" {
-  version = "0.19.2"
+  version = "0.19.3"
 
   # api_key - (optional) is a type of string
   api_key = null
