@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    fastly = ">= 0.19.1"
+    fastly = ">= 0.19.2"
   }
 }
 

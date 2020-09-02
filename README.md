@@ -3,7 +3,7 @@
 [embedmd]:# (fastly.tf)
 ```tf
 provider "fastly" {
-  version = "0.19.1"
+  version = "0.19.2"
 
   # api_key - (optional) is a type of string
   api_key = null
